@@ -1,0 +1,19 @@
+@charset "utf-8";
+body h1 {
+	color: #EB9507;
+	font-family: Osaka-mono, "MS Gothic", monospace, "源ノ角ゴシック Code JP EL";
+}
+
+.key {
+	color: #F21317;
+	background-color: #13CDEE;
+	font-size: x-large;
+}
+
+body p img {
+	border: 10px double #25EC10;
+}
+body {
+	background-color: #FFFFFF;
+	background-image: url(background159_09bJ8.png);
+}
